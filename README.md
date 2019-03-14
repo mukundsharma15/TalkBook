@@ -1,2 +1,2 @@
 # TalkBook
-AI Based TalkBook -- Make you can make this read for you.
+AI Based TalkBook -- You can make this read for you.
